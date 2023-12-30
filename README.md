@@ -15,8 +15,8 @@ This script facilitates the installation of Kali Linux on a Samsung Chromebook 3
 1. Clone this repository or download the script directly.
 
     ```bash
-    git clone https://github.com/your-username/samsung-chromebook3-kali-installation.git
-    cd samsung-chromebook3-kali-installation
+    git clonehttps://github.com/codercoins/KALI_LINUX_FOR_CHROMBOOKS.git
+    cd KALI_LINUX_FOR_CHROMBOOKS
     ```
 
 2. Make the script executable.
