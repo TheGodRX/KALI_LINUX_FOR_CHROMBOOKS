@@ -43,8 +43,9 @@ This script facilitates the installation of Kali Linux on a Samsung Chromebook 3
 
 ## Acknowledgments
 
-- The script utilizes the Crouton tool for installing Linux on a Chromebook. (Link to Crouton GitHub repository)
+- The script utilizes the Crouton tool for installing Linux on a Chromebook.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+_
