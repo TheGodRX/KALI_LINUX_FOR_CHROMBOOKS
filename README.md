@@ -30,7 +30,7 @@ This script facilitates the installation of Kali Linux on a Samsung Chromebook 3
     ```bash
     ./KALICHROME.sh
     ```
-       or if fail..
+   #or if fail..
     ```bash
      sh KALILOCALCROUTON.sh
      ```
