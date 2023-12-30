@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to DAN's Kali Linux Installation Script for Samsung Chromebook 3!"
+echo "Welcome to CODERCOINS Kali Linux Installation Script for Samsung Chromebook 3!"
 
 # Check if the wp screw is still in place
 wp_screw_status=$(sudo flashrom --wp-status | grep "Hardware write protect is enabled")
