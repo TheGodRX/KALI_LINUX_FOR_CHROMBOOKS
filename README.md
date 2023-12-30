@@ -29,6 +29,8 @@ This script facilitates the installation of Kali Linux on a Samsung Chromebook 3
 
     ```bash
     ./KALICHROME.sh
+    or
+    KALILOCALCROUTON.sh
     ```
 
 4. Follow the on-screen prompts during the installation process, including setting up a new Unix username and password when prompted.
